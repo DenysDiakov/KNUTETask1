@@ -1,0 +1,11 @@
+C:\Users\d.dyakov\source\repos\KNUTETask1\bin\Debug\KNUTETask1.exe.config
+C:\Users\d.dyakov\source\repos\KNUTETask1\bin\Debug\KNUTETask1.exe
+C:\Users\d.dyakov\source\repos\KNUTETask1\bin\Debug\KNUTETask1.pdb
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.csprojAssemblyReference.cache
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.Properties.Resources.resources
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.csproj.GenerateResource.cache
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.csproj.CoreCompileInputs.cache
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.exe
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.pdb
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask.RegistrationForm.resources
+C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask.MainForm.resources
