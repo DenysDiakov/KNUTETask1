@@ -9,3 +9,13 @@ C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.exe
 C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask1.pdb
 C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask.RegistrationForm.resources
 C:\Users\d.dyakov\source\repos\KNUTETask1\obj\Debug\KNUTETask.MainForm.resources
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\bin\Debug\KNUTETask1.exe.config
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\bin\Debug\KNUTETask1.exe
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\bin\Debug\KNUTETask1.pdb
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask.LoginForm.resources
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask.MainForm.resources
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask.RegistrationForm.resources
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask1.Properties.Resources.resources
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask1.csproj.GenerateResource.cache
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask1.exe
+C:\Users\dyako\Source\Repos\KNUTETask1\KNUTETask1\obj\Debug\KNUTETask1.pdb

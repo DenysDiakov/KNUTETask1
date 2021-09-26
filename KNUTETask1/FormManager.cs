@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace KNUTETask1
+namespace KNUTETask
 {
 	public static class FormManager
 	{

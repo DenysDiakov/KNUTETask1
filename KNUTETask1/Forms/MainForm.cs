@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System.Text;
+using System.Windows.Forms;
 
 namespace KNUTETask
 {
@@ -14,7 +15,17 @@ namespace KNUTETask
 
 		private void MainForm_Load(object sender, System.EventArgs e)
 		{
-			greetingsLabel.Text = $"{greetingsLabel.Text}, {CurrentUser.Name}";
+			var sb = new StringBuilder();
+			sb.AppendLine($"Приветствую, {CurrentUser.Login}");
+			sb.AppendLine("Надеюсь вы не забыли, что ваша дата рождения");
+			sb.AppendLine(CurrentUser.BirthDate.ToString("D"));
+			sb.AppendLine(CurrentUser.HasCat ? "А еще у вас очень милый кот :)" : "И у вас нет кота!");
+			greetingsLabel.Text = sb.ToString();
+		}
+
+		private void button1_Click(object sender, System.EventArgs e)
+		{
+			FormManager.ShowForm(new LoginForm());
 		}
 	}
 }
