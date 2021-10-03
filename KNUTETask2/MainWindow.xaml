@@ -1,0 +1,18 @@
+﻿<Window x:Class="KNUTETask2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KNUTETask2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="287.708">
+	<Grid>
+		<Button Content="Увійти в особистий кабінет" HorizontalAlignment="Left" Margin="52,369,0,0" Name="LoginButton" VerticalAlignment="Top" Width="160" Click="Button_Click" Height="40"/>
+		<TextBox HorizontalAlignment="Left" Height="30" Margin="82,146,0,0" TextWrapping="Wrap" Name="LoginTextBox" VerticalAlignment="Top" Width="117"/>
+		<TextBox HorizontalAlignment="Left" Height="30" Margin="82,211,0,0" TextWrapping="Wrap" Name="PasswordTextBox" VerticalAlignment="Top" Width="117"/>
+		<Label Content="Логін" HorizontalAlignment="Left" Name="LoginLabel" Margin="17,146,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.576,0.121"/>
+		<Label Content="Пароль" HorizontalAlignment="Left" Name="PasswordLabel" Margin="17,211,0,0" VerticalAlignment="Top"/>
+		<Label Content="" HorizontalAlignment="Left" Name="HelloLabel" Visibility="Hidden" Margin="51,181,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.872,0.455"/>
+
+	</Grid>
+</Window>
